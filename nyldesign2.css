@@ -1,0 +1,115 @@
+
+h1{
+    color: rgb(25, 59, 65);
+    padding-left: 10px;
+    font-size: 66px;
+    display: block;
+    margin-top: -79px;
+    background: white;
+}
+
+h2{
+    background-color: rgb(25, 59, 65);
+    text-align: center;
+    color: rgb(237, 237, 245);
+    margin-top: 3px;
+    font-size: 50px;
+}
+
+li{
+    list-style: none;
+    padding:10px
+}
+
+img{
+    margin-top: 50px;
+    margin-left: 50px;
+    vertical-align: bottom;
+}
+
+ul{
+    display: inline-flex;
+}
+
+#logo{
+    float: left;
+    width: 286px;
+    height: auto;
+    margin-right: 140px;
+    margin-top: 110px;
+}
+
+.titulo{
+    background-image: url(design2_image1.jpg);
+    background-repeat: no-repeat;
+    background-position: inherit;
+    background-size: cover;
+    height: 365px;
+    margin-top: 151px;
+    background-position-y: 84px;
+    }
+
+.article-home{
+    width: 600px;
+    color: rgb(27, 65, 71);
+    position: absolute;
+    display: inline-block;
+    margin-left: 68px;
+    margin-top: -23px;
+    font-size: 27px;
+}
+
+.article-home, p{
+    font-size: 52px;
+}
+
+.article-home h3{
+    font-size: 33px;
+}
+
+.article-about{
+    width: 680px;
+    color: rgb(27, 65, 71);
+    position: absolute;
+    display: inline-block;
+    margin-left: 83px;
+    margin-top: -32px;
+    font-size: 30px;
+}
+
+.article-contact{
+     width: 680px;
+    color: rgb(27, 65, 71);
+    position: absolute;
+    display: inline-block;
+    margin-left: 29px;
+    margin-top: -9px;
+    font-size: 44px;
+}
+
+article h3{
+    color: rgb(47, 158, 97);
+    font-family: cursive;
+}
+
+article a{
+    color: darkred;
+}
+
+nav{
+    margin-right: 132px;
+    margin-top: -443px;
+    float: right;
+}
+
+.nav-enlace{
+    background-color: rgb(27, 65, 71);
+    color: rgb(237, 237, 245);
+    padding: 10px 40px;
+    display:block
+}
+
+.nav-enlace:hover{
+    background: rgb(94, 197, 99);
+}
+

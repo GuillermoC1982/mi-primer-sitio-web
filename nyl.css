@@ -1,0 +1,96 @@
+
+
+h1{
+    color: rgb(237, 237, 245);
+    padding-left: 10px;
+    font-size: 91px;
+    display: inline;
+}
+
+h2{
+    background-color: rgb(25, 59, 65);
+    text-align: center;
+    color: rgb(237, 237, 245);
+    margin-top: 3px;
+    font-size: 50px;
+}
+
+li{
+     list-style: none;
+    padding:10px
+}
+
+img{
+    margin-top: 50px;
+    margin-left: 50px;
+    vertical-align: bottom;
+}
+
+article h3{
+    color: rgb(47, 158, 97);
+}
+
+#logo{
+    float: right;
+    width: 313px;
+    height: auto;
+    margin-right: 140px;
+    margin-top: -118px;
+}
+
+.titulo{
+    background-image: url(design1_image1.jpg);
+    background-repeat: no-repeat;
+    background-position: inherit;
+    background-size: cover;
+    height: 370px;
+    margin-top: 51px;
+}
+
+.article-home{
+    width: 300px;
+    color:  rgb(27, 65, 71);
+    display: inline-block;
+    margin-left: 285px;
+    margin-top: -248px;
+    font-size: 25px;
+}
+
+.article-about{
+    width: 680px;
+    color:  rgb(27, 65, 71);
+    display: inline-block;
+    margin-left: 285px;
+    margin-top: -248px;
+    font-size: 25px;
+}
+
+.article-contact{
+
+    width: 680px;
+    color:  rgb(27, 65, 71);
+    display: inline-block;
+    margin-left: 285px;
+    margin-top: -237px;
+    font-size: 44px;
+}
+
+article a{
+    color: darkred;
+}
+
+nav{
+    display: inline-block;
+   }
+
+.nav-enlace{
+    background-color: rgb(27, 65, 71);
+    color: rgb(237, 237, 245);
+    padding: 10px 40px;
+    display:block
+
+}
+.nav-enlace:hover{
+    background: rgb(151, 160, 177);
+}
+

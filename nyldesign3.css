@@ -1,0 +1,265 @@
+body{
+    background-color: #dbe6da;
+}
+
+header{
+    height: 436px;
+}
+h1{
+    color: #103042;
+    padding-left: 10px;
+    font-size: 66px;
+    margin-top: -79px;
+    background: #e8e8e8;
+    margin-left: 327px;
+    text-decoration: underline;
+}
+
+h2{
+    background: linear-gradient(179deg, #07162b, rgb(75 191 81));
+    text-align: center;
+    color: #dadada;
+    font-size: 50px;
+    text-decoration:underline;
+    margin-top: 0px;
+}
+
+h4{
+    font-size: 33px;
+}
+
+h5{
+    font-size: 21px;
+    color: #161069;
+}
+
+img{
+    margin-top: 50px;
+    margin-left: 50px;
+    vertical-align: bottom;
+}
+
+ul{
+    display: inline-flex;
+}
+
+li{
+    padding:10px;
+}
+
+#logo{
+    float: left;
+    width: 286px;
+    height: auto;
+    margin-right: 140px;
+    margin-top:-371px;
+}
+
+.titulo{
+    background-image: url(design2_image1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 365px;
+    margin-top: 90px;
+    background-position-y: 84px;
+    }
+
+.article-home{
+    width: 100%;
+    margin-top: 3px;
+    color: rgb(27, 65, 71);
+    position: absolute;
+    display: inline-block;
+    text-align: center;
+    background-image: url(field.jpg);
+    background-position-y: -421px;
+    background-position-x: -325px;
+}
+
+.article-home p{
+    font-size: 52px;
+}
+
+.article-home h3{
+    font-size: 50px;
+    font-family: cursive;
+    text-shadow: 22px 11px 15px rgb(226, 203, 200), 3px 3px 7px rgb(226, 203, 200);
+}
+
+
+.article-about{
+    width: 100%;
+    margin-top: 3px;
+    display: inline-block;
+    background-image:url(asian-women-soccer.jpg);
+    background-size: cover;
+    background-position-x: -850PX;
+    background-repeat: no-repeat;
+    background-position: inherit;
+    opacity: 0.9;
+    
+}
+
+.article-about h2{
+    font-family: auto;
+}
+
+.article-about, h3{
+        margin-bottom: -100px;
+        color: #1c4013;
+        font-family: cursive;
+        text-align: center;
+        font-size: 75px;
+}
+
+.article-about p{
+    font-size:30px;
+    text-shadow: 22px 11px 15px rgb(226, 203, 200), 3px 3px 7px rgb(226, 203, 200);
+}
+
+.article-contact{
+    width: 100%;
+    height: 500px;
+    display: inline-block;
+    margin-top: 28px;
+    text-align: center;
+    background-image: url(212240.png);
+    background-repeat: no-repeat;
+    background-position: inherit;
+    background-size: cover;
+    background-position-y: -89px;
+    opacity: 0.9;
+    
+}
+
+.article-contact, p{
+    color: black;
+    padding-top: 126px;
+    text-shadow: 17px -5px 6px rgb(226, 203, 200), -3px 1px 3px rgb(226, 203, 200);
+    font-size: 45px;
+}
+
+.article-contact h2{
+    margin-top: -153px;
+    text-shadow: none;
+}
+
+article a{
+    color: rgb(28, 40, 150);
+} 
+
+article a:hover{
+color: rgb(49, 83, 47);
+}
+
+nav{
+    margin-right: 132px;
+    margin-top: -89px;
+}
+
+.nav-enlace{
+    background-color: rgb(27, 65, 71);
+    color: rgb(237, 237, 245);
+    padding: 10px 40px;
+    display:inline-block;
+    border-radius:10px;
+    box-shadow: -7px -10px 12px black;
+    text-decoration: none;
+    list-style: none;
+   
+}
+
+.nav-enlace:hover{
+    background: rgb(94, 197, 99);
+}
+
+nav ul li{
+    list-style: none;
+}
+
+.rules-sportmanship-li{
+    list-style: square;
+}
+
+.rules-sportmanship-li p{
+    font-size: 25px;
+    padding-top: 0px;
+    margin-top: -32px;
+}
+
+.rules-ul-regulations{
+   font-size: 25px;
+   margin-top: -88px;
+}
+
+.article-rules{
+    background-image: url(refere.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: -514px;
+    opacity: 0.9;
+}
+
+table{
+    border-collapse: collapse;
+    margin-left: 40px;
+    font-size: 30px;
+}
+
+table th,table td{
+    border:solid 1px blue;
+    padding: 10px;
+}
+
+.maps{
+    float: right;
+    margin-top: -774px;
+    margin-right: 20px;
+}
+
+form{
+    font-size: 25px;
+    margin-left: 56px;
+}
+
+form p{
+    font-size: 25px;
+    margin-top: -103px;
+}
+
+label{
+    color: black;
+    text-shadow: 22px 11px 15px rgb(226, 203, 200), 3px 3px 7px rgb(226, 203, 200);
+    font-size: 30px;
+}
+
+select{
+    font-size:25px ;
+}
+
+input{
+    font-size: 21px;
+}
+
+
+.article-game-information{
+    background-image: url(bola.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+iframe{
+    border: 0px;
+}
+
+.article-form{
+    background-image: url(wp1885190.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: -980px;
+}
+
+button{
+    font-size: 50px;
+    background-color: steelblue;
+    margin-left: 78px;
+}
